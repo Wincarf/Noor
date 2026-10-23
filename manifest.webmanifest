@@ -1,0 +1,14 @@
+{
+  "name": "Noor — Cuidado sem conexão",
+  "short_name": "Noor",
+  "description": "Planos de cuidado de saúde offline para agricultoras rurais",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#165b4b",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
